@@ -16,3 +16,6 @@
 - Run your App 😍
 > default username : jwd
 > default Password : 12345
+
+> Just info
+This website uses Indonesian language. if you don't understand the language, use google translate 🥰
