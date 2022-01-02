@@ -11,5 +11,6 @@
 - Download all files
 - Open your XAMPP, or your PHP development environment
 - Activate your PHP development environment and go to php my admin
+- Create new database, db_perpus
 - Import db_perpus.sql
 - Run your App 😍
