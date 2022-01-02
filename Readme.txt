@@ -12,4 +12,4 @@
 - Open your XAMPP, or your PHP development environment
 - Activate your PHP development environment and go to php my admin
 - Import db_perpus.sql
-- Run your App :like:
+- Run your App 😍
