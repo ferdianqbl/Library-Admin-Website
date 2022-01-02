@@ -14,7 +14,7 @@
 - Create new database, db_perpus
 - Import db_perpus.sql
 - Run your App 😍
-> default username : jwd
+> default username : jwd <br>
 > default Password : 12345
 
 > Just info
