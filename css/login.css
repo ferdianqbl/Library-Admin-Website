@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;900&display=swap');
+
+body {
+    background-image: url(../images/login-bg.jpg);
+    background-position: center;
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.bg-login-image {
+    border-radius: 10px 0 0 10px;
+    background-image: url(../images/login-form-bg.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+
+h1 {
+    font-weight: 900;
+}
+
+
+.form-control-user {
+    font-size: 0.8rem;
+    border-radius: 10rem;
+    padding: .75rem 1rem;
+}
+
+.btn-user {
+    font-size: 0.8rem;
+    border-radius: 10rem;
+    padding: 0.75rem 1rem;
+}
